@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="0">HUD</layout>
+        <layout active="1" order="1">Lvl1</layout>
+        <layout order="2">Keepers</layout>
+        <event-sheet order="3">event_Main</event-sheet>
+        <event-sheet order="4">event_Controls</event-sheet>
+        <event-sheet order="5">event_Actions</event-sheet>
+        <event-sheet order="6">event_Enemy</event-sheet>
+        <event-sheet order="7">event_Ally</event-sheet>
+        <event-sheet order="8">event_Waves</event-sheet>
+        <event-sheet order="9">event_Player</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1">
+        <family expanded="1" name="throwable" />
+        <family expanded="1" name="pullable" />
+        <family expanded="0" name="enemy" />
+        <family expanded="0" name="growable" />
+        <family expanded="0" name="player" />
+        <family expanded="0" name="ally" />
+        <family expanded="0" name="loot" />
+        <family expanded="0" name="subChild" />
+        <family expanded="0" name="enemyTarget" />
+        <family expanded="0" name="damage_all" />
+        <family expanded="1" name="fx" />
+        <family expanded="0" name="passability" />
+    </families-expanded>
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/basePlayer/" />
+        <folder expanded="1" path="animation-folder/sprite_seed/" />
+        <folder expanded="1" path="animation-folder/mapMenu_BG/" />
+        <folder expanded="1" path="animation-folder/pointer/" />
+        <folder expanded="1" path="animation-folder/sprite_pullGrass/" />
+        <folder expanded="1" path="animation-folder/spriteMadish/" />
+        <folder expanded="1" path="animation-folder/spriteHero/" />
+        <folder expanded="1" path="animation-folder/baseEnemy/" />
+        <folder expanded="1" path="animation-folder/enemySpider/" />
+        <folder expanded="1" path="animation-folder/enemyTurret/" />
+        <folder expanded="1" path="animation-folder/menuIcon/" />
+        <folder expanded="1" path="animation-folder/spritePlantStem/" />
+        <folder expanded="1" path="animation-folder/sprite_FirespitterHead/" />
+        <folder expanded="1" path="animation-folder/allyAttack/" />
+        <folder expanded="1" path="animation-folder/spriteTreant/" />
+        <folder expanded="1" path="animation-folder/baseAlly/" />
+        <folder expanded="1" path="animation-folder/allyTurret/" />
+        <folder expanded="1" path="animation-folder/grow_progBar/" />
+        <folder expanded="1" path="animation-folder/grow_progBar_BG/" />
+        <folder expanded="1" path="animation-folder/seedBubble/" />
+        <folder expanded="1" path="animation-folder/obj_hp/" />
+        <folder expanded="1" path="animation-folder/spriteTree/" />
+        <folder expanded="1" path="animation-folder/enemySpawnPoint/" />
+        <folder expanded="1" path="animation-folder/enemyGoTo/" />
+        <folder expanded="1" path="animation-folder/spriteMushroom/" />
+        <folder expanded="1" path="animation-folder/spriteMushroomThrow/" />
+        <folder expanded="1" path="animation-folder/object_seed/" />
+        <folder expanded="1" path="animation-folder/elderTree/" />
+        <folder expanded="1" path="animation-folder/enemyMage/" />
+        <folder expanded="1" path="animation-folder/enemyRaptor/" />
+        <folder expanded="1" path="animation-folder/enemySkeleton/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+        <folder expanded="1" path="animation-folder/Sprite3/" />
+        <folder expanded="1" path="animation-folder/objCrystal/" />
+        <folder expanded="1" path="animation-folder/objCrystalBase/" />
+        <folder expanded="1" path="animation-folder/scriptTrigger/" />
+        <folder expanded="1" path="animation-folder/sprite_bombgrass/" />
+        <folder expanded="1" path="animation-folder/spritebomb/" />
+        <folder expanded="1" path="animation-folder/fxExplode/" />
+        <folder expanded="1" path="animation-folder/spriteCoin/" />
+        <folder expanded="1" path="animation-folder/iconCoin/" />
+        <folder expanded="1" path="animation-folder/iconCrystal/" />
+        <folder expanded="1" path="animation-folder/windowShop/" />
+        <folder expanded="1" path="animation-folder/spriteHoe/" />
+        <folder expanded="1" path="animation-folder/spriteHarvestable/" />
+        <folder expanded="1" path="animation-folder/sprite_door/" />
+        <folder expanded="1" path="animation-folder/sprite_doorgrass/" />
+        <folder expanded="1" path="animation-folder/pickup_Heart/" />
+        <folder expanded="1" path="animation-folder/sprite_healFlower/" />
+        <folder expanded="1" path="animation-folder/fxHeal/" />
+    </folders-expanded>
+</c2uistate>
